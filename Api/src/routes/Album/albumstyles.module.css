@@ -1,0 +1,17 @@
+.albumwrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.userlink {
+  margin: 10px;
+  color: black;
+}
+.albumimage {
+  width: 30%;
+  height: 30%;
+  min-width: 100px;
+  min-height: 100px;
+  margin: 10px;
+}
